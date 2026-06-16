@@ -1,0 +1,8 @@
+config.env
+*.pyc
+__pycache__/
+venv/
+*.log
+*.bkp*
+tmp/
+.DS_Store
