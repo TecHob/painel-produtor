@@ -28,8 +28,8 @@ A farmer sends a WhatsApp message like `! soybean price` and gets instant data f
 
 | Farmer asks | Bot responds |
 |---|---|
-| `! soybean price` | Soja: R\$ 129.85/sc 60kg — CEPEA |
-| `! pitaya price` | Pitaya: R\$ 18.75/kg — CEASA Curitiba |
+| `! soybean price` | Soja: R$ 129.85/sc 60kg — CEPEA |
+| `! pitaya price` | Pitaya: R$ 18.75/kg — CEASA Curitiba |
 | `! weather Pitangui` | 7-day forecast with rain, temp, wind |
 | `! soy harvest` | CONAB: 140M tons, top 5 states |
 | `! avocado SP vs BH` | CEAGESP R\.87, Campinas R\.00, BH R\.66 |
